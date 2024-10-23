@@ -1,0 +1,7 @@
+# Python specific
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+
+# Virtual environments
+schwinger_env/
