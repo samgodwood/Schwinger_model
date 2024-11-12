@@ -1,8 +1,9 @@
-# Marinas Updates Branch
+# Schwinger Model Project
 
-This branch includes updates to integrate Marina’s latest code alongside my development version (`Schwinger_model_testing.ipynb`). The purpose of this branch is to troubleshoot and understand recent changes.
+This repository contains work from Marina’s original repository (https://github.com/mmaneyro/Schwinger_model), with additional testing and development in the `Schwinger_model_testing.ipynb` notebook. The purpose of this fork is to troubleshoot and understand recent changes.
 
-- `Schwinger_model_testing.ipynb`: Contains my version where I’m testing and running code.
-- `Schwinger_model.ipynb`: Marina’s latest version with recent updates (https://github.com/mmaneyro/Schwinger_model).
+## Notebooks
 
-
+- **Schwinger_model.ipynb**: The latest version, (https://github.com/mmaneyro/Schwinger_model) which serve as the foundation.
+- **Schwinger_model_testing.ipynb**: Contains my version where I’m testing and running code.
+---
